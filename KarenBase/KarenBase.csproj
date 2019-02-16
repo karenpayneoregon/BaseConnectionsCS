@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="Classes\BaseExceptionProperties.cs" />
     <Compile Include="ConnectionClasses\AccessConnection.cs" />
+    <Compile Include="ConnectionClasses\OracleConnection.cs" />
     <Compile Include="ConnectionClasses\SqlServerConnection.cs" />
     <Compile Include="Interfaces\IConnection.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
