@@ -51,9 +51,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\KarenBase\KarenBase.csproj">
+    <ProjectReference Include="..\KarenBase\BaseConnectionLibrary.csproj">
       <Project>{9d45d0c1-adb7-4eac-ba10-d8137fcb919e}</Project>
-      <Name>KarenBase</Name>
+      <Name>BaseConnectionLibrary</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup />

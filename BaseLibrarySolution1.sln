@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarenBase", "KarenBase\KarenBase.csproj", "{9D45D0C1-ADB7-4EAC-BA10-D8137FCB919E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseConnectionLibrary", "KarenBase\BaseConnectionLibrary.csproj", "{9D45D0C1-ADB7-4EAC-BA10-D8137FCB919E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleSqlConnection", "SampleSqlConnection\SampleSqlConnection.csproj", "{12214E66-78B2-486A-BB73-5C4FD303D3F7}"
 EndProject
